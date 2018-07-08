@@ -9,3 +9,5 @@ If the guess matches the randomly selected letter, the user is alerted that he/s
 The game restarts after the user wins or after the user makes nine incorrect guesses.
 
 The user is also alerted if he/she makes a duplicate guess during the game.
+
+[Word Guess Game](https://binhvutoronto.github.io/word-guess-game/)
